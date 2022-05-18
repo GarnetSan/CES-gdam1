@@ -1,3 +1,10 @@
+/**
+ *
+ * Cabecera de proyecto
+ * 
+ * @author Miguel Rubio Tardieu 
+ */
+
 import java.util.Scanner;
 
 import org.fusesource.jansi.Ansi;

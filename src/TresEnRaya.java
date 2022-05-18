@@ -1,3 +1,10 @@
+/**
+ *
+ * Cabecera de segundo documento
+ * 
+ * @author Miguel Rubio Tardieu 
+ */
+
 import java.util.Scanner;
 import org.fusesource.jansi.Ansi;
 import org.fusesource.jansi.Ansi.Color;
